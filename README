@@ -1,0 +1,11 @@
+README
+
+Program that solves the 1D Wave and Heat equation using finite differences and plot the results with Gnuplot or Ncurses
+
+Compile with: 
+
+$ make
+
+and execute with:
+
+$ ./test
